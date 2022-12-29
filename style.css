@@ -1,9 +1,3 @@
-@font-face {
-    font-family: "Poppins";
-    src: url("/Polices/Poppins/Poppins-Bold.ttf") format("ttf"),
-        url("/Polices/Poppins/Poppins-Regular.ttf") format("ttf");
-}
-
 body {
     background: #F7F7F7;
     display: flex;
